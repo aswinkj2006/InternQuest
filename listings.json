@@ -1,33 +1,5 @@
 [
     {
-        "id": "3202229",
-        "company_name": "FynTune Solution Private Limited",
-        "title": "Product Management",
-        "category": "Product",
-        "locations": [
-            "Thane, Navi Mumbai, Mumbai, Turbhe"
-        ],
-        "url": "https://internshala.com/internship/detail/product-management-internship-in-multiple-locations-at-fyntune-solution-private-limited1783171335",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 12,000 - 18,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Leadership",
-            "Team Management",
-            "Project Management",
-            "Analytical Thinking",
-            "MS-Excel",
-            "Problem Solving",
-            "Client Relationship Management (CRM)"
-        ]
-    },
-    {
         "id": "3202592",
         "company_name": "Thynk Cloud",
         "title": "AWS/Azure Cloud Operations",
@@ -42,7 +14,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 12,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -69,7 +41,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 3,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -81,137 +53,106 @@
         ]
     },
     {
-        "id": "3204678",
-        "company_name": "Metnmat Research",
-        "title": "Full Stack Development",
-        "category": "Software",
+        "id": "3204645",
+        "company_name": "WhatsMarketing",
+        "title": "AI Tools & Onboarding or AI Automation  — Onboarding & Integrations",
+        "category": "AI/ML/Data",
         "locations": [
-            "Mumbai"
+            "Ahmedabad"
         ],
-        "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-mumbai-at-metnmat-research1783429660",
+        "url": "https://internshala.com/internship/detail/ai-tools-onboarding-or-ai-automation--onboarding-integrations-internship-in-ahmedabad-at-whatsmarketing1783427908",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 10,000 - 10,001 /month",
+        "date_posted": 1783519371,
+        "stipend": "₹ 15,000 - 30,000 /month",
         "duration": "6 Months",
         "skills": [
-            "Python",
-            "MongoDB",
-            "Node.js",
-            "PostgreSQL",
-            "React",
-            "Vector Dynamics",
-            "Next.js"
+            "MS-Office",
+            "Creative Writing",
+            "Problem Solving",
+            "English Proficiency (Written)",
+            "Artificial intelligence"
         ]
     },
     {
-        "id": "3204186",
-        "company_name": "KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED",
-        "title": "JavaScript Development",
+        "id": "3205124",
+        "company_name": "Venkatesh",
+        "title": "Front End Development",
         "category": "Software",
         "locations": [
-            "Mumbai"
+            "Secunderabad, Hyderabad"
         ],
-        "url": "https://internshala.com/internship/detail/javascript-development-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1783403417",
+        "url": "https://internshala.com/internship/detail/front-end-development-internship-in-multiple-locations-at-venkatesh1783484438",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 8,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "HTML",
-            "JavaScript",
-            "Game development"
-        ]
-    },
-    {
-        "id": "3203846",
-        "company_name": "Mediosim Technology Private Limited",
-        "title": "Unity 3D Digital Simulation Development",
-        "category": "Software",
-        "locations": [
-            "Pune"
-        ],
-        "url": "https://internshala.com/internship/detail/unity-3d-digital-simulation-development-internship-in-pune-at-mediosim-technology-private-limited1783398334",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 10,000 - 15,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "C#",
-            "Git",
-            "User Interface (UI) Development",
-            "GitHub",
-            "Canva",
-            "Unity Engine",
-            "Virtual Reality (VR)"
-        ]
-    },
-    {
-        "id": "3204677",
-        "company_name": "Enlight Lab",
-        "title": "WordPress Developer & Graphic Designer",
-        "category": "Product",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-wordpress-developer-graphic-designer-internship-at-enlight-lab1783428969",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 5,000 - 8,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "WordPress",
-            "Presentation skills",
-            "UI & UX Design",
-            "Web Design",
-            "Canva",
-            "Figma",
-            "Graphic Design"
-        ]
-    },
-    {
-        "id": "3204697",
-        "company_name": "Better",
-        "title": "Associate Frontend Developer (Framer Only)",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1783429567",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 8,000 - 10,000 /month",
-        "duration": "6 Months",
+        "date_posted": 1783519371,
+        "stipend": "₹ 30,000 - 40,000 /month",
+        "duration": "2 Months",
         "skills": [
             "HTML",
             "CSS",
             "JavaScript",
-            "CSS3",
-            "Framer"
+            "jQuery",
+            "Bootstrap",
+            "AngularJS",
+            "Node.js"
+        ]
+    },
+    {
+        "id": "3205117",
+        "company_name": "E PAYMENT SERVICES L.L.C (Dubai, United Arab Emirates)",
+        "title": "AWS DevOps Engineer",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-aws-devops-engineer-internship-at-e-payment-services-llc1783505026",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "AED 300 - 500 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Amazon EC2"
+        ]
+    },
+    {
+        "id": "3205710",
+        "company_name": "Yasham Software Services Private Limited",
+        "title": "Software Testing",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-yasham-software-services-private-limited1783515190",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 5,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Software Testing",
+            "Manual Testing",
+            "Usability Testing"
         ]
     },
     {
@@ -229,7 +170,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 30,000 - 35,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -239,51 +180,84 @@
         ]
     },
     {
-        "id": "3203639",
-        "company_name": "InAmigos Foundation",
-        "title": "AI Web Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1783336289",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "Unpaid",
-        "duration": "2 Weeks",
-        "skills": [
-            "Web development",
-            "English Proficiency (Spoken)",
-            "English Proficiency (Written)"
-        ]
-    },
-    {
-        "id": "3204549",
-        "company_name": "NTT DATA",
-        "title": "Network Engineering",
+        "id": "3205520",
+        "company_name": "Splendor Business Partners Private Limited",
+        "title": "Mobile App Development",
         "category": "Software",
         "locations": [
             "Work from home"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-network-engineering-internship-at-ntt-data1783420647",
+        "url": "https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-development-internship-at-splendor-business-partners-private-limited1783506856",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 10,000 - 10,002 /month",
+        "date_posted": 1783519371,
+        "stipend": "₹ 20,000 - 30,000 /month",
         "duration": "6 Months",
         "skills": [
-            "Computer Networking",
-            "CCNA",
-            "Computer Networks"
+            "Java",
+            "Node.js",
+            "React Native",
+            "iOS",
+            "Android",
+            "Firebase",
+            "Bubble.io"
+        ]
+    },
+    {
+        "id": "3205595",
+        "company_name": "Amrutam Pharmaceuticals",
+        "title": "QA Testing",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-qa-testing-internship-at-amrutam-pharmaceuticals1783509147",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 5,000 - 9,000 /month",
+        "duration": "4 Months",
+        "skills": [
+            "Software Testing",
+            "Postman",
+            "Test Automation",
+            "Test Case Design"
+        ]
+    },
+    {
+        "id": "3205275",
+        "company_name": "Vega Visionary Training FZE",
+        "title": "QA Engineer",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-qa-engineer-internship-at-vega-visionary-training-fze1783504010",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 13,000 - 17,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Software Testing",
+            "Risk Management",
+            "CI/CD",
+            "Data Analysis",
+            "APIs",
+            "Risk Assessment",
+            "Security tools"
         ]
     },
     {
@@ -301,7 +275,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 35,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -325,7 +299,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 27,000 - 35,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -334,6 +308,59 @@
             "jQuery",
             "WordPress",
             "Bootstrap"
+        ]
+    },
+    {
+        "id": "3205431",
+        "company_name": "ATGN Corporation Private Limited",
+        "title": "WordPress Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-atgn-corporation-private-limited1783501439",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 12,000 - 16,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "HTML",
+            "WordPress",
+            "Web development",
+            "Web Design"
+        ]
+    },
+    {
+        "id": "3202229",
+        "company_name": "FynTune Solution Private Limited",
+        "title": "Product Management",
+        "category": "Product",
+        "locations": [
+            "Thane, Navi Mumbai, Mumbai, Turbhe"
+        ],
+        "url": "https://internshala.com/internship/detail/product-management-internship-in-multiple-locations-at-fyntune-solution-private-limited1783171335",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 12,000 - 18,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Leadership",
+            "Team Management",
+            "Project Management",
+            "Analytical Thinking",
+            "MS-Excel",
+            "Problem Solving",
+            "Client Relationship Management (CRM)"
         ]
     },
     {
@@ -351,7 +378,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 5,000 - 15,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -365,109 +392,31 @@
         ]
     },
     {
-        "id": "3203338",
-        "company_name": "IV Innovations Private Limited",
-        "title": "Mobile App Development",
-        "category": "Software",
-        "locations": [
-            "Delhi, Kundli"
-        ],
-        "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-multiple-locations-at-iv-innovations-private-limited1783324293",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 7,000 - 30,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Xcode",
-            "Objective C",
-            "React",
-            "Swift",
-            "Flutter",
-            "REST API",
-            "iOS"
-        ]
-    },
-    {
-        "id": "3203884",
-        "company_name": "Markytics",
-        "title": "Voice Bot Implementation & Testing (Multilingual)",
-        "category": "Software",
+        "id": "3204763",
+        "company_name": "Vega Visionary Training FZE",
+        "title": "Devops Engineer",
+        "category": "AI/ML/Data",
         "locations": [
             "Work from home"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-voice-bot-implementation-testing-multilingual-internship-at-markytics1783398639",
+        "url": "https://internshala.com/internship/detail/work-from-home-devops-engineer-internship-at-vega-visionary-training-fze1783485622",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 5,000 /month",
+        "date_posted": 1783519371,
+        "stipend": "₹ 13,000 - 17,000 /month",
         "duration": "6 Months",
         "skills": [
-            "Attention to Detail",
-            "Software Testing",
-            "Problem Solving",
-            "English Proficiency (Spoken)",
-            "Telugu Proficiency (Spoken)",
-            "Tamil Proficiency (Spoken)",
-            "Kannada Proficiency (Spoken)"
-        ]
-    },
-    {
-        "id": "3203800",
-        "company_name": "Brain Quest",
-        "title": "Wix Studio (UI/UX)",
-        "category": "Product",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-wix-studio-ui-ux-internship-at-brain-quest1783397894",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 4,100 - 5,100 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Wix"
-        ]
-    },
-    {
-        "id": "3197153",
-        "company_name": "PSP Solutions",
-        "title": "Sales and Brand Intern",
-        "category": "Software",
-        "locations": [
-            "Mumbai"
-        ],
-        "url": "https://internshala.com/internship/detail/product-e-commerce-internship-in-mumbai-at-psp-solutions1782965391",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 5,000 - 7,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "MS-Office",
-            "Attention to Detail",
-            "E-commerce",
-            "Product Management",
-            "Quality Assurance/Quality Control (QA/QC)",
-            "Sales",
-            "Marketing Strategies"
+            "Linux",
+            "Networking",
+            "Machine Learning",
+            "Docker",
+            "GitHub",
+            "Production Engineering",
+            "Performance Testing"
         ]
     },
     {
@@ -485,7 +434,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 5,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -496,6 +445,34 @@
             "Express.js",
             "React",
             "Next.js"
+        ]
+    },
+    {
+        "id": "3197153",
+        "company_name": "PSP Solutions",
+        "title": "Sales and Brand Intern",
+        "category": "Software",
+        "locations": [
+            "Mumbai"
+        ],
+        "url": "https://internshala.com/internship/detail/product-e-commerce-internship-in-mumbai-at-psp-solutions1782965391",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 5,000 - 7,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "MS-Office",
+            "Attention to Detail",
+            "E-commerce",
+            "Product Management",
+            "Quality Assurance/Quality Control (QA/QC)",
+            "Sales",
+            "Marketing Strategies"
         ]
     },
     {
@@ -513,7 +490,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 3,000 - 7,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -537,7 +514,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 7,000 - 9,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -547,183 +524,135 @@
         ]
     },
     {
-        "id": "3204600",
-        "company_name": "Bizowl",
-        "title": "Entrepreneurial Software Development (Backend)",
+        "id": "3203846",
+        "company_name": "Mediosim Technology Private Limited",
+        "title": "Unity 3D Digital Simulation Development",
         "category": "Software",
         "locations": [
-            "Work from home"
+            "Pune"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-entrepreneurial-software-development-backend-internship-at-bizowl1783423721",
+        "url": "https://internshala.com/internship/detail/unity-3d-digital-simulation-development-internship-in-pune-at-mediosim-technology-private-limited1783398334",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
-            "Summer 2026"
+            "Co-Op"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 2,000 /month",
-        "duration": "4 Months",
+        "date_posted": 1783519371,
+        "stipend": "₹ 10,000 - 15,000 /month",
+        "duration": "6 Months",
         "skills": [
-            "Node.js",
-            "React",
-            "Firebase",
-            "Tailwind CSS"
+            "C#",
+            "Git",
+            "User Interface (UI) Development",
+            "GitHub",
+            "Canva",
+            "Unity Engine",
+            "Virtual Reality (VR)"
         ]
     },
     {
-        "id": "3204470",
-        "company_name": "Citius Communications Private Limited",
-        "title": "Information Technology",
+        "id": "3205501",
+        "company_name": "Speicher Consulting Services Private Limited",
+        "title": "Mobile App Development",
+        "category": "Software",
+        "locations": [
+            "Noida"
+        ],
+        "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-noida-at-speicher-consulting-services-private-limited1783504052",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 5,000 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "React Native",
+            "iOS",
+            "Android",
+            "Kotlin"
+        ]
+    },
+    {
+        "id": "3205422",
+        "company_name": "Mohammed Shaikh Faizan",
+        "title": "Web Development",
         "category": "Software",
         "locations": [
             "Mumbai"
         ],
-        "url": "https://internshala.com/internship/detail/information-technology-internship-in-mumbai-at-citius-communications-private-limited1783416574",
+        "url": "https://internshala.com/internship/detail/web-development-internship-in-mumbai-at-mohammed-shaikh-faizan1783501131",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 15,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Java",
-            "Python",
-            "Computer Networking",
-            "Internet of Things (IoT)"
-        ]
-    },
-    {
-        "id": "3202572",
-        "company_name": "Avenue Ticketing",
-        "title": "Mobile Capacitor App Developer",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-mobile-capacitor-app-developer-internship-at-avenue-ticketing1783423397",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 5,000 - 10,000 /month",
         "duration": "2 Months",
         "skills": [
-            "React",
-            "React Native",
-            "iOS"
-        ]
-    },
-    {
-        "id": "3202726",
-        "company_name": "Software Boffins India",
-        "title": ".NET Development",
-        "category": "Software",
-        "locations": [
-            "Delhi, Sonipat"
-        ],
-        "url": "https://internshala.com/internship/detail/net-development-internship-in-multiple-locations-at-software-boffins-india1783422310",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 5,000 - 6,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "C#",
-            ".NET",
-            "ASP.NET",
-            "SQL",
-            "Model View Controller(MVC)"
-        ]
-    },
-    {
-        "id": "3203193",
-        "company_name": "Acies Consulting LLP",
-        "title": "Product Development",
-        "category": "Product",
-        "locations": [
-            "Panaji"
-        ],
-        "url": "https://internshala.com/internship/detail/product-development-internship-in-panaji-at-acies-consulting-llp1783417150",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 15,000 - 20,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "MS-Office",
-            "Adobe Illustrator",
-            "Product Development",
-            "No?code development"
-        ]
-    },
-    {
-        "id": "3203204",
-        "company_name": "Bajaj Foundation",
-        "title": "Digital Automation & Website",
-        "category": "Software",
-        "locations": [
-            "Delhi"
-        ],
-        "url": "https://internshala.com/internship/detail/digital-automation-website-internship-in-delhi-at-bajaj-foundation1783416498",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 12,000 - 15,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Social Media Marketing",
-            "WordPress",
-            "Email Marketing",
-            "MS-Excel",
-            "Google Workspace",
-            "Facebook Ads"
-        ]
-    },
-    {
-        "id": "3203190",
-        "company_name": "ENFLUENCE",
-        "title": "Digital Marketing & Website Development",
-        "category": "Software",
-        "locations": [
-            "Hyderabad"
-        ],
-        "url": "https://internshala.com/internship/detail/digital-marketing-website-development-internship-in-hyderabad-at-enfluence1783416148",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 2,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Social Media Marketing",
-            "Google Analytics",
-            "Search Engine Marketing (SEM)",
             "Digital Marketing",
-            "Search Engine Optimization (SEO)",
-            "Web development",
-            "Web Design"
+            "Web development"
+        ]
+    },
+    {
+        "id": "3201924",
+        "company_name": "Flipshope",
+        "title": "Flutter Development",
+        "category": "Software",
+        "locations": [
+            "Jaipur"
+        ],
+        "url": "https://internshala.com/internship/detail/flutter-development-internship-in-jaipur-at-flipshope1783493668",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 8,000 - 10,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Git",
+            "JSON",
+            "Flutter",
+            "REST API",
+            "Dart",
+            "iOS",
+            "Android"
+        ]
+    },
+    {
+        "id": "3196022",
+        "company_name": "Tech.at.core",
+        "title": "Full Stack Development",
+        "category": "Software",
+        "locations": [
+            "Nizamabad"
+        ],
+        "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-nizamabad-at-techatcore1783495091",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 8,500 - 10,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Java",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "AngularJS",
+            "React"
         ]
     },
     {
@@ -741,7 +670,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 20,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -768,7 +697,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "Unpaid",
         "duration": "4 Months",
         "skills": [
@@ -779,53 +708,6 @@
             "CSS",
             "JavaScript",
             "jQuery"
-        ]
-    },
-    {
-        "id": "3200298",
-        "company_name": "Enord Private Limited",
-        "title": "Unreal Engine",
-        "category": "Software",
-        "locations": [
-            "Delhi"
-        ],
-        "url": "https://internshala.com/internship/detail/unreal-engine-internship-in-delhi-at-enord-private-limited1783400430",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 5,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Autodesk Maya",
-            "Blender 3D",
-            "Unreal Engine"
-        ]
-    },
-    {
-        "id": "3200451",
-        "company_name": "Pommpuai Technologies Private Limited",
-        "title": "2D Spine Animator",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-2d-spine-animator-internship-at-pommpuai-technologies-private-limited1783399405",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 4,000 - 5,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Animation",
-            "Unity Engine"
         ]
     },
     {
@@ -843,7 +725,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 2,500 - 3,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -852,32 +734,6 @@
             "Production Engineering",
             "Research and Analytics",
             "Quality Assurance/Quality Control (QA/QC)"
-        ]
-    },
-    {
-        "id": "3203575",
-        "company_name": "Pioneer Sam Energia",
-        "title": "Mobile App & Web Development",
-        "category": "Software",
-        "locations": [
-            "Pune, Vasai-Virar"
-        ],
-        "url": "https://internshala.com/internship/detail/mobile-app-web-development-internship-in-multiple-locations-at-pioneer-sam-energia1783334063",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 2,500 - 3,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Digital Marketing",
-            "Mobile Application Development",
-            "Web development",
-            "Design Thinking",
-            "Digital Advertising"
         ]
     },
     {
@@ -895,7 +751,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 2,500 - 3,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -922,7 +778,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -944,7 +800,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 3,000 - 5,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -972,7 +828,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 18,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -983,31 +839,6 @@
             "Proofreading",
             "Report Writing",
             "Statistics"
-        ]
-    },
-    {
-        "id": "3190842",
-        "company_name": "CyboSec Technologies Private Limited",
-        "title": "Technical Sales",
-        "category": "Software",
-        "locations": [
-            "Coimbatore"
-        ],
-        "url": "https://internshala.com/internship/detail/technical-sales-internship-in-coimbatore-at-cybosec-technologies-private-limited1782378111",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 7,000 - 13,000 /month",
-        "duration": "4 Months",
-        "skills": [
-            "Technical Analysis",
-            "Sales Management",
-            "Business Development",
-            "Channel Management"
         ]
     },
     {
@@ -1025,7 +856,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 5,000 - 8,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -1051,7 +882,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 8,000 - 12,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -1079,7 +910,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -1105,7 +936,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519371,
         "stipend": "₹ 2,000 - 5,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -1119,30 +950,699 @@
         ]
     },
     {
-        "id": "3204672",
-        "company_name": "Certiwisehub",
-        "title": "Stock Trading Research",
+        "id": "3201947",
+        "company_name": "Earlyzen",
+        "title": "Full Stack Development",
         "category": "Software",
         "locations": [
             "Work from home"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-stock-trading-research-internship-at-certiwisehub1783427991",
+        "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-earlyzen1783510216",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 1,500 - 2,000 /month",
+        "date_posted": 1783519371,
+        "stipend": "₹ 22,000 - 40,000 lump sum",
+        "duration": "3 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "MongoDB",
+            "Node.js",
+            "Express.js",
+            "React"
+        ]
+    },
+    {
+        "id": "3205694",
+        "company_name": "NayePankh Foundation",
+        "title": "Full Stack Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-nayepankh-foundation1783513563",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
-            "Market Analysis",
-            "Logical reasoning",
-            "Financial Analysis",
-            "Equity Research",
-            "Interpersonal skills",
-            "Financial literacy"
+            "HTML",
+            "Web development",
+            "Frontend development",
+            "Backend development"
+        ]
+    },
+    {
+        "id": "3205683",
+        "company_name": "Queens Of Change Foundation",
+        "title": "Web Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-queens-of-change-foundation1783512968",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML"
+        ]
+    },
+    {
+        "id": "3205681",
+        "company_name": "Queens Of Change Foundation",
+        "title": "Front End Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-queens-of-change-foundation1783512903",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML"
+        ]
+    },
+    {
+        "id": "3205678",
+        "company_name": "Basti Ki Pathshala Foundation",
+        "title": "Python Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1783512651",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Python",
+            "Django",
+            "Machine Learning",
+            "REST API",
+            "Flask"
+        ]
+    },
+    {
+        "id": "3203517",
+        "company_name": "TECHMISS THREE TECHNOLOGY",
+        "title": "Software Development",
+        "category": "Software",
+        "locations": [
+            "Bangalore"
+        ],
+        "url": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-techmiss-three-technology1783505516",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 10,000 - 20,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Node.js"
+        ]
+    },
+    {
+        "id": "3205298",
+        "company_name": "Quicket Solutions",
+        "title": "Software Development",
+        "category": "Software",
+        "locations": [
+            "Gurgaon"
+        ],
+        "url": "https://internshala.com/internship/detail/software-development-internship-in-gurgaon-at-quicket-solutions1783495424",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 15,000 - 30,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Java",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python",
+            ".NET"
+        ]
+    },
+    {
+        "id": "3203665",
+        "company_name": "Vastra Express",
+        "title": "Full Stack Web Developer (React.js + Node.js)",
+        "category": "Software",
+        "locations": [
+            "Patna, Sandalpur"
+        ],
+        "url": "https://internshala.com/internship/detail/full-stack-web-developer-reactjs-nodejs-internship-in-multiple-locations-at-vastra-express1783501772",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 8,000 - 17,000 /month",
+        "duration": "1 Month",
+        "skills": [
+            "MySQL",
+            "HTML",
+            "CSS",
+            "HTML 5",
+            "E-commerce",
+            "MongoDB",
+            "Node.js"
+        ]
+    },
+    {
+        "id": "3186603",
+        "company_name": "Jash Data Sciences Private Limited",
+        "title": "Software Development",
+        "category": "Software",
+        "locations": [
+            "Pune"
+        ],
+        "url": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-jash-data-sciences-private-limited1783489977",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 8,000 - 12,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Python",
+            "Algorithms",
+            "Data Structures"
+        ]
+    },
+    {
+        "id": "3194545",
+        "company_name": "Pravas Consultants",
+        "title": "Web Development",
+        "category": "Software",
+        "locations": [
+            "Hyderabad"
+        ],
+        "url": "https://internshala.com/internship/detail/web-development-internship-in-hyderabad-at-pravas-consultants1783493566",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 5,000 - 13,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "PHP",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "Node.js"
+        ]
+    },
+    {
+        "id": "3205248",
+        "company_name": "Qubixo",
+        "title": "Java Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-qubixo1783493228",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 10,000 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Java",
+            "MySQL",
+            "JSP",
+            "J2EE",
+            "Hibernate ORM(Java)",
+            "Spring MVC"
+        ]
+    },
+    {
+        "id": "3205243",
+        "company_name": "Qubixo",
+        "title": "Web Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-qubixo1783493179",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 10,000 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "WordPress"
+        ]
+    },
+    {
+        "id": "3205193",
+        "company_name": "Amrata",
+        "title": "Python Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1783490485",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 12,500 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Python",
+            "Django",
+            "Machine Learning",
+            "REST API",
+            "Flask"
+        ]
+    },
+    {
+        "id": "3205190",
+        "company_name": "Amrata",
+        "title": "Java Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-amrata1783490348",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519371,
+        "stipend": "₹ 10,000 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Java",
+            "MySQL",
+            "JSP",
+            "J2EE",
+            "Hibernate ORM(Java)",
+            "Spring MVC"
+        ]
+    },
+    {
+        "id": "3205717",
+        "company_name": "Yasham Software Services Private Limited",
+        "title": "Project Management",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-project-management-internship-at-yasham-software-services-private-limited1783515650",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 5,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Software Testing",
+            "Technical Support",
+            "Software Development Life Cycle (SDLC)",
+            "Web Application Testing"
+        ]
+    },
+    {
+        "id": "3205186",
+        "company_name": "Amrata",
+        "title": "Web Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1783490236",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 10,000 - 20,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "WordPress"
+        ]
+    },
+    {
+        "id": "3203232",
+        "company_name": "Bluvin Solutions",
+        "title": "Laravel Developer",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-laravel-developer-internship-at-bluvin-solutions1783487402",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 2,500 - 3,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "MySQL",
+            "HTML",
+            "CSS",
+            "Laravel",
+            "Web development",
+            "Web Design"
+        ]
+    },
+    {
+        "id": "3204929",
+        "company_name": "Codecraft IT Solutions",
+        "title": "WordPress Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-codecraft-it-solutions1783486547",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 3,000 - 8,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "HTML",
+            "JavaScript",
+            "Content Writing",
+            "WordPress"
+        ]
+    },
+    {
+        "id": "3205095",
+        "company_name": "3infotechsolution",
+        "title": "Full Stack Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-3infotechsolution1783474149",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 25,000 - 30,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "PHP",
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "id": "3204899",
+        "company_name": "Emoolar Technology Private Limited",
+        "title": "Software Development Engineering (Web)",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-emoolar-technology-private-limited1783450306",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 8,000 - 9,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "3204897",
+        "company_name": "Emoolar Technology Private Limited",
+        "title": "Full Stack Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-emoolar-technology-private-limited1783450077",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 4,000 - 5,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Backend development"
+        ]
+    },
+    {
+        "id": "3204896",
+        "company_name": "Emoolar Technology Private Limited",
+        "title": "Web Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-emoolar-technology-private-limited1783449905",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 3,000 - 4,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "3204834",
+        "company_name": "3infotechsolution",
+        "title": "Software Development Engineering (Web)",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-3infotechsolution1783440807",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 20,000 - 35,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Java",
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "id": "3204600",
+        "company_name": "Bizowl",
+        "title": "Entrepreneurial Software Development (Backend)",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-entrepreneurial-software-development-backend-internship-at-bizowl1783423721",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 2,000 /month",
+        "duration": "4 Months",
+        "skills": [
+            "Node.js",
+            "React",
+            "Firebase",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "id": "3204678",
+        "company_name": "Metnmat Research",
+        "title": "Full Stack Development",
+        "category": "Software",
+        "locations": [
+            "Mumbai"
+        ],
+        "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-mumbai-at-metnmat-research1783429660",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 10,000 - 10,001 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Python",
+            "MongoDB",
+            "Node.js",
+            "PostgreSQL",
+            "React",
+            "Vector Dynamics",
+            "Next.js"
+        ]
+    },
+    {
+        "id": "3204697",
+        "company_name": "Better",
+        "title": "Associate Frontend Developer (Framer Only)",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1783429567",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 8,000 - 10,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "CSS3",
+            "Framer"
+        ]
+    },
+    {
+        "id": "3204677",
+        "company_name": "Enlight Lab",
+        "title": "WordPress Developer & Graphic Designer",
+        "category": "Product",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-wordpress-developer-graphic-designer-internship-at-enlight-lab1783428969",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 5,000 - 8,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "WordPress",
+            "Presentation skills",
+            "UI & UX Design",
+            "Web Design",
+            "Canva",
+            "Figma",
+            "Graphic Design"
         ]
     },
     {
@@ -1160,7 +1660,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519373,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1174,31 +1674,31 @@
         ]
     },
     {
-        "id": "3204388",
-        "company_name": "Interview Ghost",
-        "title": "Machine Learning",
-        "category": "AI/ML/Data",
+        "id": "3204297",
+        "company_name": "Gray Mobility",
+        "title": "Full Stack & Cloud Engineering",
+        "category": "Software",
         "locations": [
-            "Work from home"
+            "Bangalore"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-interview-ghost1783427268",
+        "url": "https://internshala.com/internship/detail/full-stack-cloud-engineering-internship-in-bangalore-at-gray-mobility1783427165",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
-            "Summer 2026"
+            "Co-Op"
         ],
-        "date_posted": 1783434676,
-        "stipend": "₹ 10,000 - 15,000 /month",
+        "date_posted": 1783519373,
+        "stipend": "₹ 15,000 - 20,000 /month",
         "duration": "6 Months",
         "skills": [
+            "Java",
+            "JavaScript",
             "Python",
-            "Machine Learning",
-            "Docker",
-            "Natural Language Processing (NLP)",
-            "Deep Learning",
-            "Artificial intelligence",
-            "FastAPI"
+            "Web development",
+            "Flutter",
+            "Golang",
+            "Backend development"
         ]
     },
     {
@@ -1216,7 +1716,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519373,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1238,7 +1738,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519373,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1260,7 +1760,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519373,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1271,6 +1771,31 @@
             "JavaScript",
             "Python",
             ".NET"
+        ]
+    },
+    {
+        "id": "3204470",
+        "company_name": "Citius Communications Private Limited",
+        "title": "Information Technology",
+        "category": "Software",
+        "locations": [
+            "Mumbai"
+        ],
+        "url": "https://internshala.com/internship/detail/information-technology-internship-in-mumbai-at-citius-communications-private-limited1783416574",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 15,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Java",
+            "Python",
+            "Computer Networking",
+            "Internet of Things (IoT)"
         ]
     },
     {
@@ -1288,7 +1813,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434676,
+        "date_posted": 1783519373,
         "stipend": "₹ 1,500 - 3,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -1299,29 +1824,58 @@
         ]
     },
     {
-        "id": "3202690",
-        "company_name": "VirtusInfotech",
-        "title": "Fullstack Developer (MERN)",
+        "id": "3203204",
+        "company_name": "Bajaj Foundation",
+        "title": "Digital Automation & Website",
         "category": "Software",
         "locations": [
-            "Work from home"
+            "Delhi"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-fullstack-developer-mern-internship-at-virtusinfotech1783422655",
+        "url": "https://internshala.com/internship/detail/digital-automation-website-internship-in-delhi-at-bajaj-foundation1783416498",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
-            "Summer 2026"
+            "Co-Op"
         ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 11,000 - 1,10,000 /month",
-        "duration": "1 Month",
+        "date_posted": 1783519373,
+        "stipend": "₹ 12,000 - 15,000 /month",
+        "duration": "3 Months",
         "skills": [
-            "JavaScript",
-            "MongoDB",
-            "Express.js",
-            "React",
-            "Next.js"
+            "Social Media Marketing",
+            "WordPress",
+            "Email Marketing",
+            "MS-Excel",
+            "Google Workspace",
+            "Facebook Ads"
+        ]
+    },
+    {
+        "id": "3203190",
+        "company_name": "ENFLUENCE",
+        "title": "Digital Marketing & Website Development",
+        "category": "Software",
+        "locations": [
+            "Hyderabad"
+        ],
+        "url": "https://internshala.com/internship/detail/digital-marketing-website-development-internship-in-hyderabad-at-enfluence1783416148",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519373,
+        "stipend": "₹ 2,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Social Media Marketing",
+            "Google Analytics",
+            "Search Engine Marketing (SEM)",
+            "Digital Marketing",
+            "Search Engine Optimization (SEO)",
+            "Web development",
+            "Web Design"
         ]
     },
     {
@@ -1339,7 +1893,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519373,
         "stipend": "₹ 10,000 - 17,500 /month",
         "duration": "6 Months",
         "skills": [
@@ -1367,7 +1921,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519373,
         "stipend": "₹ 3,000 - 5,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -1395,7 +1949,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519373,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1417,12 +1971,268 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519373,
         "stipend": "₹ 5,000 - 10,000 /month",
         "duration": "1 Month",
         "skills": [
             "HTML",
             "JavaScript"
+        ]
+    },
+    {
+        "id": "3189004",
+        "company_name": "The Agency Source",
+        "title": "Python/Django & React Engineering",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Delhi, South"
+        ],
+        "url": "https://internshala.com/internship/detail/python-django-react-engineering-internship-in-multiple-locations-at-the-agency-source1782133423",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "₹ 10,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "MySQL",
+            "Python",
+            "Django",
+            "React",
+            "Flask",
+            "Elasticsearch"
+        ]
+    },
+    {
+        "id": "3177811",
+        "company_name": "She Can Foundation",
+        "title": "Backend Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-she-can-foundation1781176079",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "Java",
+            "PHP",
+            "MySQL",
+            "HTML",
+            "Python",
+            "MongoDB",
+            "Django"
+        ]
+    },
+    {
+        "id": "3160711",
+        "company_name": "Alemeno",
+        "title": "Backend Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-alemeno1779776027",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "₹ 15,000 - 20,000 /month",
+        "duration": "4 Months",
+        "skills": [
+            "OpenCV",
+            "Python",
+            "Git",
+            "Django",
+            "Machine Learning",
+            "Node.js",
+            "NoSQL"
+        ]
+    },
+    {
+        "id": "3203623",
+        "company_name": "Queens Of Change Foundation",
+        "title": "Python Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1783335784",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "Python"
+        ]
+    },
+    {
+        "id": "3192298",
+        "company_name": "SaaSBanana Technologies",
+        "title": "Python Development (Night Shift | WFH)",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-python-development-night-shift--wfh-internship-at-saasbanana-technologies1782400603",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "₹ 8,000 - 10,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Python",
+            "SQL",
+            "Flask"
+        ]
+    },
+    {
+        "id": "3186147",
+        "company_name": "Rivyou",
+        "title": "Backend Development",
+        "category": "Software",
+        "locations": [
+            "Bangalore"
+        ],
+        "url": "https://internshala.com/internship/detail/backend-development-internship-in-bangalore-at-rivyou1781890135",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "₹ 15,000 - 20,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Python",
+            "MongoDB",
+            "Django",
+            "REST API"
+        ]
+    },
+    {
+        "id": "3179001",
+        "company_name": "She Can Foundation",
+        "title": "No Code Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-part-time-no-code-development-internship-at-she-can-foundation1781261168",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML",
+            "Python",
+            "Algorithms",
+            "Data Structures",
+            "Machine Learning",
+            "Natural Language Processing (NLP)",
+            "Deep Learning"
+        ]
+    },
+    {
+        "id": "3194476",
+        "company_name": "Basti Ki Pathshala Foundation",
+        "title": "Backend Development",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1782554662",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML",
+            "Backend development"
+        ]
+    },
+    {
+        "id": "3197254",
+        "company_name": "She Can Foundation",
+        "title": "Python Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-she-can-foundation1782880668",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "HTML",
+            "Python"
+        ]
+    },
+    {
+        "id": "3179004",
+        "company_name": "She Can Foundation",
+        "title": "AI Web Development",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-she-can-foundation1781261094",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519375,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "Java",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "HTML 5",
+            "Python"
         ]
     },
     {
@@ -1440,7 +2250,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 20,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -1468,7 +2278,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519375,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -1479,459 +2289,6 @@
             "Machine Learning",
             "REST API",
             "Flask"
-        ]
-    },
-    {
-        "id": "3204225",
-        "company_name": "NayePankh Foundation",
-        "title": "Front End Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-nayepankh-foundation1783405197",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML"
-        ]
-    },
-    {
-        "id": "3204116",
-        "company_name": "OyeLabs",
-        "title": "Node.js Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-nodejs-development-internship-at-oyelabs1783398739",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 5,000 - 10,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "MySQL",
-            "HTML",
-            "JavaScript",
-            "MongoDB",
-            "Node.js",
-            "Express.js",
-            "React"
-        ]
-    },
-    {
-        "id": "3203920",
-        "company_name": "Celer Commerce Private Limited",
-        "title": "Frontend Developer & Artificial Intelligence",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-frontend-developer-artificial-intelligence-internship-at-celer-commerce-private-limited1783398744",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 6,000 - 12,000 /month",
-        "duration": "2 Months",
-        "skills": [
-            "Java",
-            "HTML",
-            "CSS",
-            "Time Management",
-            "MongoDB",
-            "AngularJS",
-            "Wireframing"
-        ]
-    },
-    {
-        "id": "3202284",
-        "company_name": "Bhushan Udupa",
-        "title": "SaaS Engineering (Full-Stack Development & DevOps)",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-saas-engineering-full-stack-development-devops-internship-at-bhushan-udupa1783398018",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 5,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Linux",
-            "Node.js",
-            "Mobile Application Development",
-            "Problem Solving",
-            "GitHub",
-            "Web development",
-            "Android"
-        ]
-    },
-    {
-        "id": "3202703",
-        "company_name": "Fync Innovation Private Limited",
-        "title": "Web Developer and Social Media Manager",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-web-developer-and-social-media-manager-internship-at-fync-innovation-private-limited1783397816",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 1,000 /month",
-        "duration": "4 Months",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Canva"
-        ]
-    },
-    {
-        "id": "3203760",
-        "company_name": "Warewe Consultancy Private Limited",
-        "title": "Full Stack Development",
-        "category": "Software",
-        "locations": [
-            "Gurgaon"
-        ],
-        "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-gurgaon-at-warewe-consultancy-private-limited1783341378",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 15,000 - 20,000 /month",
-        "duration": "2 Months",
-        "skills": [
-            "MongoDB",
-            "Node.js",
-            "PostgreSQL",
-            "Docker",
-            "REST API",
-            "RabbitMQ",
-            "TypeScript"
-        ]
-    },
-    {
-        "id": "3203666",
-        "company_name": "Basti Ki Pathshala Foundation",
-        "title": "Front End Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-front-end-development-internship-at-basti-ki-pathshala-foundation1783337148",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "Frontend development"
-        ]
-    },
-    {
-        "id": "3203664",
-        "company_name": "NayePankh Foundation",
-        "title": "Java Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-nayepankh-foundation1783336957",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "Java",
-            "HTML"
-        ]
-    },
-    {
-        "id": "3203662",
-        "company_name": "Queens Of Change Foundation",
-        "title": "Backend Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1783336940",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML"
-        ]
-    },
-    {
-        "id": "3203655",
-        "company_name": "NayePankh Foundation",
-        "title": "Full Stack Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-nayepankh-foundation1783336863",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "Web development",
-            "Frontend development",
-            "Backend development"
-        ]
-    },
-    {
-        "id": "3203653",
-        "company_name": "NayePankh Foundation",
-        "title": "Front End Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-nayepankh-foundation1783336821",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Week",
-        "skills": [
-            "HTML"
-        ]
-    },
-    {
-        "id": "3203435",
-        "company_name": "Tempzsoft",
-        "title": "Software Development",
-        "category": "Software",
-        "locations": [
-            "Bhubaneswar"
-        ],
-        "url": "https://internshala.com/internship/detail/software-development-internship-in-bhubaneswar-at-tempzsoft1783329179",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 2,000 - 5,000 /month",
-        "duration": "2 Months",
-        "skills": [
-            "MySQL",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Python",
-            ".NET",
-            "Node.js"
-        ]
-    },
-    {
-        "id": "3203623",
-        "company_name": "Queens Of Change Foundation",
-        "title": "Python Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1783335784",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "Python"
-        ]
-    },
-    {
-        "id": "3203620",
-        "company_name": "Queens Of Change Foundation",
-        "title": "Web Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-queens-of-change-foundation1783335721",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML"
-        ]
-    },
-    {
-        "id": "3199931",
-        "company_name": "Prashant Saxena",
-        "title": "Full Stack Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-prashant-saxena1783334500",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 15,000 - 20,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Python",
-            "Node.js",
-            "React",
-            "Generative AI Development",
-            "Generative AI Tools"
-        ]
-    },
-    {
-        "id": "3200466",
-        "company_name": "Invly",
-        "title": "React Native Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-react-native-development-internship-at-invly1783320989",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 1,500 - 2,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "JavaScript",
-            "Node.js",
-            "React Native",
-            "TypeScript"
-        ]
-    },
-    {
-        "id": "3202776",
-        "company_name": "She Can Foundation",
-        "title": "Java Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-java-development-internship-at-she-can-foundation1783316720",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "Java",
-            "MySQL",
-            "HTML",
-            "JSP",
-            "J2EE",
-            "Hibernate ORM(Java)",
-            "Spring MVC"
-        ]
-    },
-    {
-        "id": "3203178",
-        "company_name": "Certiwisehub",
-        "title": "Financial Market Research",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-financial-market-research-internship-at-certiwisehub1783316012",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 1,500 - 2,000 /month",
-        "duration": "1 Month",
-        "skills": [
-            "Finance",
-            "Digital Marketing",
-            "Market Analysis",
-            "Human Resources",
-            "Financial literacy",
-            "Sales"
         ]
     },
     {
@@ -1949,242 +2306,8 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434678,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 20,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Python",
-            "Django",
-            "Machine Learning",
-            "REST API",
-            "Flask"
-        ]
-    },
-    {
-        "id": "3203155",
-        "company_name": "Amrata",
-        "title": "Web Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-amrata1783314383",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434678,
-        "stipend": "₹ 10,000 - 20,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "PHP",
-            "MySQL",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "jQuery",
-            "WordPress"
-        ]
-    },
-    {
-        "id": "3189004",
-        "company_name": "The Agency Source",
-        "title": "Python/Django & React Engineering",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Delhi, South"
-        ],
-        "url": "https://internshala.com/internship/detail/python-django-react-engineering-internship-in-multiple-locations-at-the-agency-source1782133423",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "₹ 10,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "MySQL",
-            "Python",
-            "Django",
-            "React",
-            "Flask",
-            "Elasticsearch"
-        ]
-    },
-    {
-        "id": "3179004",
-        "company_name": "She Can Foundation",
-        "title": "AI Web Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-ai-web-development-internship-at-she-can-foundation1781261094",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "Java",
-            "MySQL",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "HTML 5",
-            "Python"
-        ]
-    },
-    {
-        "id": "3186147",
-        "company_name": "Rivyou",
-        "title": "Backend Development",
-        "category": "Software",
-        "locations": [
-            "Bangalore"
-        ],
-        "url": "https://internshala.com/internship/detail/backend-development-internship-in-bangalore-at-rivyou1781890135",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "₹ 15,000 - 20,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Python",
-            "MongoDB",
-            "Django",
-            "REST API"
-        ]
-    },
-    {
-        "id": "3192298",
-        "company_name": "SaaSBanana Technologies",
-        "title": "Python Development (Night Shift | WFH)",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-python-development-night-shift--wfh-internship-at-saasbanana-technologies1782400603",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "₹ 8,000 - 10,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Python",
-            "SQL",
-            "Flask"
-        ]
-    },
-    {
-        "id": "3197254",
-        "company_name": "She Can Foundation",
-        "title": "Python Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-python-development-internship-at-she-can-foundation1782880668",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "Python"
-        ]
-    },
-    {
-        "id": "3194476",
-        "company_name": "Basti Ki Pathshala Foundation",
-        "title": "Backend Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-basti-ki-pathshala-foundation1782554662",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "Backend development"
-        ]
-    },
-    {
-        "id": "3179001",
-        "company_name": "She Can Foundation",
-        "title": "No Code Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-no-code-development-internship-at-she-can-foundation1781261168",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "Python",
-            "Algorithms",
-            "Data Structures",
-            "Machine Learning",
-            "Natural Language Processing (NLP)",
-            "Deep Learning"
-        ]
-    },
-    {
-        "id": "3203143",
-        "company_name": "Amrata",
-        "title": "Python Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-amrata1783313999",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "₹ 12,500 - 20,000 /month",
         "duration": "3 Months",
         "skills": [
             "HTML",
@@ -2211,7 +2334,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2239,7 +2362,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2267,7 +2390,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 60,000 - 80,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -2293,7 +2416,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 10,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2321,7 +2444,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 9,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2332,34 +2455,6 @@
             "PostgreSQL",
             "HTTP",
             "GitHub"
-        ]
-    },
-    {
-        "id": "3199586",
-        "company_name": "Basti Ki Pathshala Foundation",
-        "title": "Python Development",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-basti-ki-pathshala-foundation1782969507",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "HTML",
-            "CSS",
-            "Python",
-            "Django",
-            "Machine Learning",
-            "REST API",
-            "Flask"
         ]
     },
     {
@@ -2377,7 +2472,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2401,7 +2496,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 1,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2425,7 +2520,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 3,000 - 5,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -2448,7 +2543,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2476,7 +2571,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -2500,7 +2595,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -2525,7 +2620,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 20,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2552,7 +2647,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 10,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2575,7 +2670,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2600,7 +2695,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2625,7 +2720,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -2650,7 +2745,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 6,000 - 12,500 /month",
         "duration": "1 Month",
         "skills": [
@@ -2678,7 +2773,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 2,500 - 8,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2702,7 +2797,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2726,7 +2821,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 7,500 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2754,7 +2849,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2778,7 +2873,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 8,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2806,7 +2901,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 8,000 - 12,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2817,29 +2912,6 @@
             "Git",
             "Django",
             "PostgreSQL"
-        ]
-    },
-    {
-        "id": "3180333",
-        "company_name": "StoryYell Private Limited",
-        "title": "Artificial Intelligence (AI) Engineering",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Gurgaon"
-        ],
-        "url": "https://internshala.com/internship/detail/artificial-intelligence-ai-engineering-internship-in-gurgaon-at-storyyell-private-limited1781499307",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434680,
-        "stipend": "₹ 32,000 /month",
-        "duration": "4 Months",
-        "skills": [
-            "Python",
-            "Computer Vision"
         ]
     },
     {
@@ -2857,7 +2929,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 1,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2879,7 +2951,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "Unpaid",
         "duration": "6 Months",
         "skills": [
@@ -2907,7 +2979,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2935,7 +3007,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -2960,7 +3032,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519375,
         "stipend": "₹ 5,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -2988,35 +3060,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434680,
-        "stipend": "Unpaid",
-        "duration": "1 Month",
-        "skills": [
-            "Java",
-            "PHP",
-            "MySQL",
-            "HTML",
-            "Python",
-            "MongoDB",
-            "Django"
-        ]
-    },
-    {
-        "id": "3177811",
-        "company_name": "She Can Foundation",
-        "title": "Backend Development",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-she-can-foundation1781176079",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519376,
         "stipend": "Unpaid",
         "duration": "1 Month",
         "skills": [
@@ -3044,7 +3088,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519376,
         "stipend": "₹ 15,000 - 35,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -3072,7 +3116,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519376,
         "stipend": "₹ 18,000 - 20,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3096,7 +3140,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519376,
         "stipend": "₹ 5,000 - 12,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -3120,7 +3164,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434680,
+        "date_posted": 1783519376,
         "stipend": "₹ 15,000 - 17,100 /month",
         "duration": "6 Months",
         "skills": [
@@ -3131,6 +3175,137 @@
             "Web development",
             "REST API",
             "AWS Lambda"
+        ]
+    },
+    {
+        "id": "3194203",
+        "company_name": "Worldotech",
+        "title": "Sales",
+        "category": "Software",
+        "locations": [
+            "Mohali"
+        ],
+        "url": "https://internshala.com/internship/detail/sales-internship-in-mohali-at-teya-verma1782714168",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 20,000 - 40,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "MS-Excel",
+            "B2B Sales",
+            "Sales Management",
+            "English Proficiency (Spoken)",
+            "English Proficiency (Written)",
+            "Sales Strategy"
+        ]
+    },
+    {
+        "id": "3190568",
+        "company_name": "Nawab Khan Foundation",
+        "title": "Citizen Grievance Field Coordinator (Mumbai)",
+        "category": "AI/ML/Data",
+        "locations": [
+            "Mumbai"
+        ],
+        "url": "https://internshala.com/internship/detail/citizen-grievance-field-coordinator-mumbai-internship-in-mumbai-at-nawab-khan-foundation1782289270",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 10,000 - 15,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "English Proficiency (Spoken)",
+            "English Proficiency (Written)",
+            "Hindi Proficiency (Spoken)",
+            "Hindi Proficiency (Written)",
+            "Marathi Proficiency(Written)",
+            "Marathi Proficiency(Spoken)",
+            "Effective Communication"
+        ]
+    },
+    {
+        "id": "3174637",
+        "company_name": "Dr RUSHITA WAGHDHARE",
+        "title": "Craft Assistant (For hand made products)",
+        "category": "Product",
+        "locations": [
+            "Mumbai"
+        ],
+        "url": "https://internshala.com/internship/detail/part-time-craft-assistant-for-hand-made-products-internship-in-mumbai-at-dr-rushita-waghdhare1782463059",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 7,000 - 17,000 /month",
+        "duration": "2 Months",
+        "skills": [
+            "Product Development",
+            "Production Engineering"
+        ]
+    },
+    {
+        "id": "3163317",
+        "company_name": "AUTOMAZE INNOVATIONS LLP",
+        "title": "Mechatronics",
+        "category": "Hardware",
+        "locations": [
+            "Surat"
+        ],
+        "url": "https://internshala.com/internship/detail/mechatronics-internship-in-surat-at-automaze-innovations-llp1780057344",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 8,000 - 12,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "SolidWorks",
+            "Raspberry Pi",
+            "Embedded Systems",
+            "Arduino",
+            "Problem Solving",
+            "Product Development",
+            "Soldering"
+        ]
+    },
+    {
+        "id": "3204445",
+        "company_name": "Kridey Foundation",
+        "title": "Law/Legal",
+        "category": "Software",
+        "locations": [
+            "Work from home"
+        ],
+        "url": "https://internshala.com/internship/detail/work-from-home-law-legal-internship-at-kridey-foundation1783415045",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "Unpaid",
+        "duration": "1 Month",
+        "skills": [
+            "MS-Office",
+            "MS-Word",
+            "English Proficiency (Spoken)",
+            "English Proficiency (Written)"
         ]
     },
     {
@@ -3148,7 +3323,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 5,000 - 10,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -3175,7 +3350,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 11,000 - 12,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3188,249 +3363,205 @@
         ]
     },
     {
-        "id": "3203705",
-        "company_name": "EMIAC Technologies",
-        "title": "Digital Marketing",
-        "category": "Software",
-        "locations": [
-            "Jaipur"
-        ],
-        "url": "https://internshala.com/internship/detail/digital-marketing-internship-in-jaipur-at-emiac-technologies1783338656",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 5,000 - 7,000 /month",
-        "duration": "4 Months",
-        "skills": [
-            "Digital Marketing",
-            "Search Engine Optimization (SEO)",
-            "Client Interaction",
-            "Effective Communication"
-        ]
-    },
-    {
-        "id": "3203310",
-        "company_name": "Wehire Talent Solutions",
+        "id": "3205413",
+        "company_name": "Nawab Khan Foundation",
         "title": "Human Resources (HR)",
         "category": "Software",
         "locations": [
             "Mumbai"
         ],
-        "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-mumbai-at-wehire-talent-solutions1783322854",
+        "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-mumbai-at-nawab-khan-foundation1783500588",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 6,000 - 7,500 /month",
-        "duration": "3 Months",
+        "date_posted": 1783519378,
+        "stipend": "₹ 2,500 - 5,000 /month",
+        "duration": "6 Months",
         "skills": [
-            "Time Management",
+            "MS-Office",
+            "MS-Word",
+            "MS-Excel",
             "English Proficiency (Spoken)",
             "English Proficiency (Written)",
-            "Interpersonal skills",
-            "Effective Communication"
+            "Hindi Proficiency (Spoken)"
         ]
     },
     {
-        "id": "3203713",
-        "company_name": "Careers360",
-        "title": "Marketing",
-        "category": "Software",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-marketing-internship-at-careers3601783338981",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 15,150 lump sum",
-        "duration": "2 Months",
-        "skills": [
-            "Marketing",
-            "Effective Communication"
-        ]
-    },
-    {
-        "id": "3204123",
-        "company_name": "She Can Foundation",
+        "id": "3205460",
+        "company_name": "Pawzz Foundation",
         "title": "Fundraising",
         "category": "AI/ML/Data",
         "locations": [
             "Work from home"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1783399633",
+        "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-pawzz-foundation1783507473",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 1,500 - 15,000 lump sum",
-        "duration": "1 Month",
+        "duration": "4 Weeks",
         "skills": [
-            "Social Media Marketing",
-            "Content Writing",
+            "MS-Office",
+            "MS-Word",
+            "MS-PowerPoint",
+            "Digital Marketing",
             "Time Management",
             "Networking",
-            "Strategy",
-            "Cold Calling",
-            "Email Marketing"
+            "Social Work"
         ]
     },
     {
-        "id": "3203640",
-        "company_name": "InAmigos Foundation",
-        "title": "AI Blog Writing",
-        "category": "AI/ML/Data",
+        "id": "3205177",
+        "company_name": "Gangamani Fashions (Art & Crafts)",
+        "title": "Corporate Sales (Female)",
+        "category": "Software",
         "locations": [
             "Work from home"
         ],
-        "url": "https://internshala.com/internship/detail/work-from-home-ai-blog-writing-internship-at-inamigos-foundation1783336835",
+        "url": "https://internshala.com/internship/detail/work-from-home-corporate-sales-internship-at-gangamani-fashions-art-crafts1783494722",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434683,
-        "stipend": "Unpaid",
-        "duration": "2 Weeks",
+        "date_posted": 1783519378,
+        "stipend": "₹ 4,000 - 7,500 /month",
+        "duration": "4 Months",
         "skills": [
-            "Content Writing",
+            "MS-Office",
+            "Digital Marketing",
+            "Email Marketing",
+            "MS-Excel",
+            "LinkedIn Marketing",
             "English Proficiency (Spoken)",
             "English Proficiency (Written)"
         ]
     },
     {
-        "id": "3203636",
-        "company_name": "InAmigos Foundation",
-        "title": "AI Data Analytics",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-ai-data-analytics-internship-at-inamigos-foundation1783336263",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "Unpaid",
-        "duration": "2 Weeks",
-        "skills": [
-            "Content Writing",
-            "English Proficiency (Spoken)",
-            "English Proficiency (Written)"
-        ]
-    },
-    {
-        "id": "3203635",
-        "company_name": "InAmigos Foundation",
-        "title": "AI Content Writing",
-        "category": "AI/ML/Data",
-        "locations": [
-            "Work from home"
-        ],
-        "url": "https://internshala.com/internship/detail/work-from-home-ai-content-writing-internship-at-inamigos-foundation1783336817",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "Unpaid",
-        "duration": "2 Weeks",
-        "skills": [
-            "Content Writing",
-            "English Proficiency (Spoken)",
-            "English Proficiency (Written)"
-        ]
-    },
-    {
-        "id": "3198620",
-        "company_name": "Unacademy",
-        "title": "UGC Content Creator",
+        "id": "3205366",
+        "company_name": "The Spryte Platform",
+        "title": "Business Development (Sales)",
         "category": "Software",
         "locations": [
             "Bangalore"
         ],
-        "url": "https://internshala.com/internship/detail/ugc-content-creator-internship-in-bangalore-at-unacademy1783065129",
+        "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-bangalore-at-the-spryte-platform1783497934",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 2,000 - 20,000 /month",
-        "duration": "1 Month",
+        "date_posted": 1783519378,
+        "stipend": "₹ 12,000 - 15,000 /month",
+        "duration": "2 Months",
         "skills": [
-            "Adobe Premiere Pro",
-            "Final Cut Pro",
-            "Capcut"
-        ]
-    },
-    {
-        "id": "3200253",
-        "company_name": "The Digital Group Infotech Private Lmited",
-        "title": "Sales and Marketing",
-        "category": "Software",
-        "locations": [
-            "Pune"
-        ],
-        "url": "https://internshala.com/internship/detail/sales-and-marketing-internship-in-pune-at-the-digital-group-infotech-private-lmited1782995109",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 10,000 - 12,500 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Lead Generation",
-            "B2B Sales",
-            "Market research",
+            "Cold Calling",
             "Sales"
         ]
     },
     {
-        "id": "3196487",
-        "company_name": "Muthoot Homefin India Limited",
-        "title": "Sales",
+        "id": "3196297",
+        "company_name": "GLS Group",
+        "title": "Human Resources (HR)",
         "category": "Software",
         "locations": [
-            "Kottayam, Kozhikode, Thiruvananthapuram, Thrissur, Alappuzha, Kochi"
+            "Bilaspur"
         ],
-        "url": "https://internshala.com/internship/detail/sales-internship-in-multiple-locations-at-muthoot-homefin-india-limited1782896878",
+        "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-bilaspur-at-gls-group1783514581",
         "degrees": [
             "Bachelor's"
         ],
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 14,000 /month",
+        "date_posted": 1783519378,
+        "stipend": "₹ 5,000 - 7,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "MS-Excel",
+            "English Proficiency (Spoken)"
+        ]
+    },
+    {
+        "id": "3205496",
+        "company_name": "Zypp Electric",
+        "title": "Video Editing/Making",
+        "category": "Software",
+        "locations": [
+            "Gurgaon"
+        ],
+        "url": "https://internshala.com/internship/detail/video-editing-making-internship-in-gurgaon-at-zypp-electric1783503895",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 3,000 - 5,000 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Adobe Photoshop",
+            "Video Editing",
+            "Video Making",
+            "Canva"
+        ]
+    },
+    {
+        "id": "3205461",
+        "company_name": "Spacewood Furnishers Private Limited",
+        "title": "Mechanical Engineering",
+        "category": "Software",
+        "locations": [
+            "Nagpur"
+        ],
+        "url": "https://internshala.com/internship/detail/mechanical-engineering-internship-in-nagpur-at-spacewood-furnishers-private-limited1783502566",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 16,500 - 20,500 /month",
+        "duration": "1 Month",
+        "skills": [
+            "CNC Programming"
+        ]
+    },
+    {
+        "id": "3205153",
+        "company_name": "Aditya Birla Fashion & Retail Limited (ABFRL)",
+        "title": "Corporate Sales",
+        "category": "Software",
+        "locations": [
+            "Delhi, Hyderabad, Mumbai, Bangalore"
+        ],
+        "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-multiple-locations-at-aditya-birla-fashion-retail-limited-abfrl1783488728",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 12,000 - 13,500 /month",
         "duration": "6 Months",
         "skills": [
-            "Adaptability",
-            "Effective Communication"
+            "Client Interaction",
+            "Client Relationship Management (CRM)",
+            "Client Relationship",
+            "Customer Support",
+            "Customer Acquisition"
         ]
     },
     {
@@ -3448,7 +3579,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 7,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3475,37 +3606,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 6,000 - 8,000 /month",
         "duration": "6 Months",
         "skills": [
             "Social Media Marketing",
             "Graphic Design"
-        ]
-    },
-    {
-        "id": "3202039",
-        "company_name": "WPP Media",
-        "title": "Talent Acquisition",
-        "category": "Product",
-        "locations": [
-            "Mumbai"
-        ],
-        "url": "https://internshala.com/internship/detail/talent-acquisition-internship-in-mumbai-at-wpp-media1783154409",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 20,000 - 25,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Recruitment",
-            "MS-Excel",
-            "English Proficiency (Spoken)",
-            "English Proficiency (Written)"
         ]
     },
     {
@@ -3523,7 +3629,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 5,000 - 6,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3533,6 +3639,55 @@
             "Hindi Proficiency (Spoken)",
             "Marathi Proficiency(Spoken)",
             "Effective Communication"
+        ]
+    },
+    {
+        "id": "3198620",
+        "company_name": "Unacademy",
+        "title": "UGC Content Creator",
+        "category": "Software",
+        "locations": [
+            "Bangalore"
+        ],
+        "url": "https://internshala.com/internship/detail/ugc-content-creator-internship-in-bangalore-at-unacademy1783065129",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 2,000 - 20,000 /month",
+        "duration": "1 Month",
+        "skills": [
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "Capcut"
+        ]
+    },
+    {
+        "id": "3200253",
+        "company_name": "The Digital Group Infotech Private Lmited",
+        "title": "Sales and Marketing",
+        "category": "Software",
+        "locations": [
+            "Pune"
+        ],
+        "url": "https://internshala.com/internship/detail/sales-and-marketing-internship-in-pune-at-the-digital-group-infotech-private-lmited1782995109",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 10,000 - 12,500 /month",
+        "duration": "3 Months",
+        "skills": [
+            "Lead Generation",
+            "B2B Sales",
+            "Market research",
+            "Sales"
         ]
     },
     {
@@ -3550,7 +3705,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 5,000 - 8,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -3575,7 +3730,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 10,000 - 10,001 /month",
         "duration": "3 Months",
         "skills": [
@@ -3598,7 +3753,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 8,000 - 10,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -3625,11 +3780,34 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "6 Months",
         "skills": [
             "Recruitment"
+        ]
+    },
+    {
+        "id": "3196487",
+        "company_name": "Muthoot Homefin India Limited",
+        "title": "Sales",
+        "category": "Software",
+        "locations": [
+            "Kottayam, Kozhikode, Thiruvananthapuram, Thrissur, Alappuzha, Kochi"
+        ],
+        "url": "https://internshala.com/internship/detail/sales-internship-in-multiple-locations-at-muthoot-homefin-india-limited1782896878",
+        "degrees": [
+            "Bachelor's"
+        ],
+        "terms": [
+            "Co-Op"
+        ],
+        "date_posted": 1783519378,
+        "stipend": "₹ 14,000 /month",
+        "duration": "6 Months",
+        "skills": [
+            "Adaptability",
+            "Effective Communication"
         ]
     },
     {
@@ -3647,7 +3825,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 15,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -3672,7 +3850,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 5,000 - 8,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -3697,7 +3875,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 10,000 - 10,001 /month",
         "duration": "6 Months",
         "skills": [
@@ -3719,7 +3897,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 4,500 - 6,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3742,7 +3920,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 15,000 - 20,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3765,7 +3943,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 3,000 - 5,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -3790,7 +3968,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 10,000 - 12,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3815,7 +3993,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 8,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3838,7 +4016,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 15,000 - 25,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -3860,7 +4038,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 8,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3888,7 +4066,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 12,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -3916,7 +4094,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 11,000 - 12,000 /month",
         "duration": "2 Months",
         "skills": [
@@ -3939,7 +4117,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 10,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -3965,7 +4143,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 9,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -3993,7 +4171,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 6,000 - 8,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -4015,7 +4193,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 14,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -4038,7 +4216,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 15,000 - 15,001 /month",
         "duration": "3 Months",
         "skills": [
@@ -4062,7 +4240,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 9,999 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -4087,7 +4265,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 8,000 - 10,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -4110,7 +4288,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 9,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -4134,7 +4312,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 40,000 - 80,000 /month",
         "duration": "4 Months",
         "skills": [
@@ -4159,7 +4337,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 25,000 /month",
         "duration": "6 Months",
         "skills": [
@@ -4183,7 +4361,7 @@
         "terms": [
             "Co-Op"
         ],
-        "date_posted": 1783434683,
+        "date_posted": 1783519378,
         "stipend": "₹ 12,000 - 15,000 /month",
         "duration": "3 Months",
         "skills": [
@@ -4192,81 +4370,6 @@
             "Digital Marketing",
             "Creative Thinking",
             "Canva"
-        ]
-    },
-    {
-        "id": "3179389",
-        "company_name": "NETAMBIT VALUEFIRST SERVICES PRIVATE LIMITED",
-        "title": "Recruitment",
-        "category": "Product",
-        "locations": [
-            "Chennai"
-        ],
-        "url": "https://internshala.com/internship/detail/recruitment-internship-in-chennai-at-netambit-valuefirst-services-private-limited1781517679",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 2,000 - 5,000 /month",
-        "duration": "2 Months",
-        "skills": [
-            "Recruitment",
-            "MS-Excel",
-            "Interpersonal skills"
-        ]
-    },
-    {
-        "id": "3181276",
-        "company_name": "Greater Than Educational Technologies",
-        "title": "Project Management",
-        "category": "Software",
-        "locations": [
-            "Hyderabad"
-        ],
-        "url": "https://internshala.com/internship/detail/project-management-internship-in-hyderabad-at-greater-than-educational-technologies1781506447",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 12,000 - 15,000 /month",
-        "duration": "3 Months",
-        "skills": [
-            "Logical reasoning",
-            "Critical thinking",
-            "MS-Excel",
-            "Problem Solving",
-            "English Proficiency (Spoken)",
-            "Adaptability",
-            "Google Sheets"
-        ]
-    },
-    {
-        "id": "3178559",
-        "company_name": "Spencers Retail Limited",
-        "title": "Sales",
-        "category": "Software",
-        "locations": [
-            "Mumbai"
-        ],
-        "url": "https://internshala.com/internship/detail/sales-internship-in-mumbai-at-spencers-retail-limited1781243934",
-        "degrees": [
-            "Bachelor's"
-        ],
-        "terms": [
-            "Co-Op"
-        ],
-        "date_posted": 1783434683,
-        "stipend": "₹ 16,000 - 23,000 /month",
-        "duration": "6 Months",
-        "skills": [
-            "Sales",
-            "Customer Support"
         ]
     }
 ]
